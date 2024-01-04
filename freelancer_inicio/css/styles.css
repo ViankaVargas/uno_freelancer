@@ -1,0 +1,29 @@
+/* root */
+:root {
+ /*color: var(--primario);*/
+    --blanco: #ffffff;
+    --oscuro: #212121;
+    --primario: #ffc107;
+    --secundario: #0097A7;
+    --gris: #757575;
+}
+/***/
+
+/* 1rem = 10px */
+html{
+    font-size: 62.5%;
+    font-family: 'Krub', sans-serif;
+}
+body{
+    font-size: 16px;
+}
+/***/
+
+.titulo{
+    text-align: center;
+    font-size: 3.8rem;
+}
+
+.titulo span{
+    font-size: 2rem;
+}
